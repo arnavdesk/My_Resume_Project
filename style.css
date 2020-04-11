@@ -666,6 +666,10 @@ section:nth-child(2n+1){
 
 @media screen and (max-width:650px){
 
+    .contact-form-btn{
+        margin-left: 35px;
+    }
+
     .timeline-box::after{
         margin-top: -145px !important;
     }
